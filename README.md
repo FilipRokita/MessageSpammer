@@ -18,3 +18,7 @@ python3 MessageSpammer.py
 5. Click/select textbox in which you want to write file selected above line by line
 6. Click selected previously start button
 7. If you want to stop spamming click stop button
+
+# Author
+Filip Rokita<br/>
+www.filiprokita.com
