@@ -1,6 +1,6 @@
 # MessageSpammer
 
-Slect .txt file you want to send to someone line by line. MessageSpammer will automatically write it and click enter in selected textbox.
+Slect `.txt` file you want to send to someone line by line. MessageSpammer will automatically write it and click enter in selected textbox.
 
 # Installation
 ```
