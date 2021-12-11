@@ -8,10 +8,7 @@ pip install -r requirements.txt
 ```
 
 # Usage
-1. Run the script by:
-```
-python3 MessageSpammer.py
-```
+1. Run the script
 2. Input button you want to start spamming with
 3. Input button you want to stop spamming with
 4. Input file you want to spam with
